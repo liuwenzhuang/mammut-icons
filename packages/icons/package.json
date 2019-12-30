@@ -2,6 +2,10 @@
   "name": "mammut-icons",
   "version": "0.0.1",
   "description": "Mammut basic icon project to build icons from svg files. Code is from Antd Icons.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/liuwenzhuang/mammut-icons/tree/master/packages/icons"
+  },
   "keywords": [
     "Icon",
     "Inline",

@@ -2,6 +2,10 @@
   "name": "mammut-icons-regular",
   "version": "0.0.1",
   "description": "Mammut Regular inline svg icon project.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/liuwenzhuang/mammut-icons/tree/master/packages/icons-regular"
+  },
   "keywords": [
     "Regular",
     "Inline",

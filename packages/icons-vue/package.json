@@ -2,6 +2,10 @@
   "name": "mammut-icons-vue",
   "version": "0.0.1",
   "description": "Mammut Vue inline svg icon project.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/liuwenzhuang/mammut-icons/tree/master/packages/icons-vue"
+  },
   "keywords": [
     "Vue",
     "Inline",
