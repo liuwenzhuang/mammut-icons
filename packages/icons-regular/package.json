@@ -1,0 +1,27 @@
+{
+  "name": "mammut-icons-regular",
+  "version": "0.0.1",
+  "description": "Mammut Regular inline svg icon project.",
+  "keywords": [
+    "Regular",
+    "Inline",
+    "Svg"
+  ],
+  "author": "刘文壮 <liuwenzhuang@corp.netease.com>",
+  "homepage": "",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "dependencies": {
+    "mammut-icons": "^0.0.1"
+  }
+}
